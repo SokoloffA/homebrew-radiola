@@ -1,6 +1,6 @@
 cask "radiola" do
-  version "8.0.0"
-  sha256 "f8551821285c6178ea0f9f7cd2734271dff6e9fcbbeed6b6f181a401f3fe3cae"
+  version "8.1.0"
+  sha256 "96ecfb960e4cc689a7b5045e6168f91d31906cb27f11d13b28a4a6313124f9b3"
 
   url "https://github.com/SokoloffA/radiola/releases/download/v#{version}/Radiola-#{version}.dmg"
   # NOTE: When a GitHub release tag is in MAJOR.MINOR.PATCH format, use
